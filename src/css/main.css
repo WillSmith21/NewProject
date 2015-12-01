@@ -91,12 +91,13 @@ textarea {
 	width: 960px;
 	margin-left:auto;
 	margin-right:auto;
+	background-image: url(../img/pure-water-background1.jpg);
 	}
 #logo{
      float: left;
-     width:153px;
+     width:60px;
      height:33px;
-     margin-bottom: 10px;
+     margin-bottom: 100px;
      }
 #menu{
      font-size: 20px;
@@ -106,15 +107,36 @@ textarea {
 	display: inline;
 	background-color: red;
 	}
+#callout1{
+	background-color: cyan;
+	}
+#callout2{
+	background-color: skyblue;
+	 white;
+	}
+#callout3{
+	background-color: magenta;
+	}
+.callout{
+	padding-left: 10px;
+	width:310px;  
+	float: left;
+	}
 .clear{
-      clear:both;
+	clear: both;
       }
-
-
-
-
-
-
+#content{
+	margin-top: 100px;
+	}
+#Footer{
+	float: middle;
+	background-color: orange;
+       }
+#photo{
+	border-style: solid;
+	float: center;
+	width: 960px;
+      }
 
 
 
